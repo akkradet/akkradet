@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I’m @akkradet 👋
+
+- 📫 How to reach me akkradet7@gmail.com
 
 <!--
 **akkradet/akkradet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
