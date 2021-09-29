@@ -29,5 +29,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-Centos-informational?style=flat&logo=centos&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Odoo-ce-informational?style=flat&logo=odoo&logoColor=white&color=2bbc8a)
 
-![Metrics](https://metrics.lecoq.io/akkradet?template=classic&isocalendar=1&languages=1&introduction=1&people=1&gists=1&followup=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&followup.sections=repositories&config.timezone=Asia%2FBangkok)
+![Metrics](https://metrics.lecoq.io/akkradet?template=classic&isocalendar=1&languages=1&introduction=1&people=1&gists=1&followup=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=true&people.shuffle=true&followup.sections=repositories&config.timezone=Asia%2FBangkok)
+
 
