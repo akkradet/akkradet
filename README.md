@@ -28,5 +28,3 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Centos-informational?style=flat&logo=centos&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Odoo-ce-informational?style=flat&logo=odoo&logoColor=white&color=2bbc8a)
-
-![Metrics](https://metrics.lecoq.io/akkradet?template=classic&languages=1&isocalendar=1&introduction=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=Asia%2FBangkok)
