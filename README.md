@@ -16,9 +16,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akkradet&label=Profile%20views&color=0e75b6&style=flat" alt="akkradet" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akkradet" alt="akkradet" /></a> </p>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akkradet&count_private=true&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akkradet&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akkradet&" alt="akkradet" /></p>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
